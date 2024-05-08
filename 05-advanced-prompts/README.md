@@ -26,7 +26,7 @@ After completing this lesson, you'll be able to:
 
 ## Prompt engineering
 
-Prompt engineering is the process of creating prompts that will produce the desired outcome. There's more to prompt engineering than just writing a text prompt. Prompt engineering is not an engineering discipline, it's more a set of techniques that you can apply to get the desired outcome.
+**_Prompt engineering is the process of creating prompts that will produce the desired outcome_**. There's more to prompt engineering than just writing a text prompt. Prompt engineering is not an engineering discipline, it's more a set of techniques that you can apply to get the desired outcome.
 
 ### An example of a prompt
 
@@ -56,7 +56,7 @@ So far, we've seen a simple prompt example, but generative AI is capable of much
 
 First, we need to understand that prompting is an _emergent_ property of an LLM meaning that this is not a feature that is built into the model but rather something we discover as we use the model.
 
-There are some basic techniques that we can use to prompt an LLM. Let's explore them.
+**_There are some basic techniques that we can use to prompt an LLM. Let's explore them._**
 
 - **Zero-shot prompting**, this is the most basic form of prompting. It's a single prompt requesting a response from the LLM based solely on its training data.
 - **Few-shot prompting**, this type of prompting guides the LLM by providing 1 or more examples it can rely on to generate its response.
